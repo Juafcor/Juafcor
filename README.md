@@ -10,7 +10,7 @@
 ---
 
 ## 🎯 **Resumen Profesional**
-Soy [tu profesión] con [número de años] años de experiencia en [industria o especialización]. Apasionado por [tu interés profesional], tengo habilidades en [habilidades clave] y he trabajado en proyectos que han [impacto o logro destacado]. Busco [tu objetivo laboral].
+Soy un estudiante de DAM con [número de años] años de experiencia en [industria o especialización]. Apasionado por [tu interés profesional], tengo habilidades en [habilidades clave] y he trabajado en proyectos que han [impacto o logro destacado]. Busco [tu objetivo laboral].
 
 ---
 
