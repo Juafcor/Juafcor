@@ -2,15 +2,15 @@
 
 👤 **Contacto**  
 - 📍 Ciudad, País  
-- 📧 [correo@ejemplo.com](mailto:correo@ejemplo.com)  
-- 📞 +34 123 456 789  
+- 📧 [juanfreeri@gmail.com](mailto:juanfreeri@gmail.com)  
+- 📞 +34 658484701 
 - 🌐 [tu-portfolio.com](https://tu-portfolio.com)  
-- 💻 [GitHub](https://github.com/tuusuario) | [LinkedIn](https://www.linkedin.com/in/tuusuario/)
+- 💻 [GitHub](https://github.com/juafcor) | [LinkedIn](https://www.linkedin.com/in/juan-francisco-rivas-rodrigo-9b12ba250/)
 
 ---
 
 ## 🎯 **Resumen Profesional**
-Soy un estudiante de DAM con [número de años] años de experiencia en [industria o especialización]. Apasionado por [tu interés profesional], tengo habilidades en [habilidades clave] y he trabajado en proyectos que han [impacto o logro destacado]. Busco [tu objetivo laboral].
+Soy un estudiante de DAM con poca experiencia en programación. Apasionado por los videojuegos, tengo habilidades en [habilidades clave] y he trabajado en proyectos que han [impacto o logro destacado]. Busco [tu objetivo laboral].
 
 ---
 
