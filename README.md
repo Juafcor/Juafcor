@@ -1,7 +1,7 @@
 # 📄 Mi nombre es Juan Francisco Rivas
 
 👤 **Contacto**  
-- 📍 Ciudad, País  
+- 📍 España
 - 📧 [juanfreeri@gmail.com](mailto:juanfreeri@gmail.com)  
 - 📞 +34 658484701 
 - 🌐 [tu-portfolio.com](https://tu-portfolio.com)  
@@ -10,12 +10,12 @@
 ---
 
 ## 🎯 **Resumen Profesional**
-Soy un estudiante de DAM con poca experiencia en programación. Apasionado por los videojuegos, tengo habilidades en [habilidades clave] y he trabajado en proyectos que han [impacto o logro destacado]. Busco [tu objetivo laboral].
+Soy un estudiante de DAM con interés en programación. Apasionado por los videojuegos, tengo habilidades en [habilidades clave] y he trabajado en proyectos que han [impacto o logro destacado]. Busco [tu objetivo laboral].
 
 ---
 
 ## 🛠️ **Habilidades Técnicas**
-- **Lenguajes de Programación:** [ejemplo: Python, JavaScript, Java]  
+- **Lenguajes de Programación:** [Python, Java]  
 - **Frameworks y Librerías:** [ejemplo: React, Django, Node.js]  
 - **Bases de Datos:** [ejemplo: MySQL, PostgreSQL, MongoDB]  
 - **Herramientas y Plataformas:** [ejemplo: Git, Docker, AWS]  
