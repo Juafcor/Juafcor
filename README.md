@@ -3,23 +3,22 @@
 👤 **Contacto**  
 - 📍 España
 - 📧 [juanfreeri@gmail.com](mailto:juanfreeri@gmail.com)  
-- 📞 +34 658484701 
-- 🌐 [tu-portfolio.com](https://tu-portfolio.com)  
+- 📞 +34 658 48 47 01
 - 💻 [GitHub](https://github.com/juafcor) | [LinkedIn](https://www.linkedin.com/in/juan-francisco-rivas-rodrigo-9b12ba250/)
 
 ---
 
 ## 🎯 **Resumen Profesional**
-Soy un estudiante de DAM con interés en programación. Apasionado por los videojuegos, tengo habilidades en [habilidades clave] y he trabajado en proyectos que han [impacto o logro destacado]. Busco [tu objetivo laboral].
+Soy un estudiante de DAM con interés en programación. Apasionado por los videojuegos, tengo habilidades en java principalmente y he trabajado en proyectos que han conseguido quedar finalistas en varias JAM de la uax y hackatones internos. Busco desarrollar videojuegos que hagan sentir emociones al jugador, así como aplicaciones que suplan necesidades.
 
 ---
 
 ## 🛠️ **Habilidades Técnicas**
 - **Lenguajes de Programación:** [Python, Java]  
-- **Frameworks y Librerías:** [ejemplo: React, Django, Node.js]  
-- **Bases de Datos:** [ejemplo: MySQL, PostgreSQL, MongoDB]  
-- **Herramientas y Plataformas:** [ejemplo: Git, Docker, AWS]  
-- **Metodologías:** [ejemplo: Agile, Scrum, DevOps]  
+- **Frameworks y Librerías:** [Vue.js, Node.js, Gson, LibGDX, Hibernate]  
+- **Bases de Datos:** [MySQL, PostgreSQL, MongoDB]  
+- **Herramientas y Plataformas:** [Git, Docker, AWS]  
+- **Metodologías:** [Agile, Scrum]  
 
 ---
 
@@ -69,9 +68,8 @@ Soy un estudiante de DAM con interés en programación. Apasionado por los video
 
 ## 🌍 **Idiomas**
 - **Español:** Nativo  
-- **Inglés:** [Nivel, ejemplo: Avanzado (C1)]  
-- **[Otro idioma]:** [Nivel]  
-
+- **Inglés:** [Nivel,Avanzado (C1)]
+- 
 ---
 
 ## 🏅 **Reconocimientos y Premios**
